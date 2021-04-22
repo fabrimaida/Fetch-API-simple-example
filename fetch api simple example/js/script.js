@@ -8,6 +8,11 @@ alert("B")
 
 
 var board = document.getElementById('board');
+
+log("Altro commit per test gitflow")
+
+
+
 var source = document.getElementById("entry-template").innerHTML;
 var template = Handlebars.compile(source);
   for (var i = 0; i < 64 ; i++) {
