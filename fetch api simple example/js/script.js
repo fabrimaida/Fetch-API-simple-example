@@ -4,7 +4,7 @@
 // If the number is even we paint the box of red.
 // If the number is odd we paint the box green.
 // Easy as that!
-alert("A")
+alert("B")
 
 
 var board = document.getElementById('board');
